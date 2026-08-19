@@ -1,0 +1,168 @@
+{
+  "department": "04-sales",
+  "orientation_required": true,
+  "research_then_install": true,
+  "sub_function_count": 10,
+  "bots": [
+    {
+      "slug": "prospecting",
+      "sub_function": "Prospecting",
+      "titles": [
+        "CRO",
+        "Chief Sales Officer",
+        "VP Sales",
+        "Regional VP",
+        "Sales Director",
+        "Sales Manager",
+        "Account Executive",
+        "Enterprise AE",
+        "SDR/BDR",
+        "Sales Engineer"
+      ]
+    },
+    {
+      "slug": "account-research",
+      "sub_function": "Account Research",
+      "titles": [
+        "CRO",
+        "Chief Sales Officer",
+        "VP Sales",
+        "Regional VP",
+        "Sales Director",
+        "Sales Manager",
+        "Account Executive",
+        "Enterprise AE",
+        "SDR/BDR",
+        "Sales Engineer"
+      ]
+    },
+    {
+      "slug": "qualification",
+      "sub_function": "Qualification",
+      "titles": [
+        "CRO",
+        "Chief Sales Officer",
+        "VP Sales",
+        "Regional VP",
+        "Sales Director",
+        "Sales Manager",
+        "Account Executive",
+        "Enterprise AE",
+        "SDR/BDR",
+        "Sales Engineer"
+      ]
+    },
+    {
+      "slug": "opportunity-management",
+      "sub_function": "Opportunity Management",
+      "titles": [
+        "CRO",
+        "Chief Sales Officer",
+        "VP Sales",
+        "Regional VP",
+        "Sales Director",
+        "Sales Manager",
+        "Account Executive",
+        "Enterprise AE",
+        "SDR/BDR",
+        "Sales Engineer"
+      ]
+    },
+    {
+      "slug": "enterprise-sales",
+      "sub_function": "Enterprise Sales",
+      "titles": [
+        "CRO",
+        "Chief Sales Officer",
+        "VP Sales",
+        "Regional VP",
+        "Sales Director",
+        "Sales Manager",
+        "Account Executive",
+        "Enterprise AE",
+        "SDR/BDR",
+        "Sales Engineer"
+      ]
+    },
+    {
+      "slug": "account-management",
+      "sub_function": "Account Management",
+      "titles": [
+        "CRO",
+        "Chief Sales Officer",
+        "VP Sales",
+        "Regional VP",
+        "Sales Director",
+        "Sales Manager",
+        "Account Executive",
+        "Enterprise AE",
+        "SDR/BDR",
+        "Sales Engineer"
+      ]
+    },
+    {
+      "slug": "solutions-engineering",
+      "sub_function": "Solutions Engineering",
+      "titles": [
+        "CRO",
+        "Chief Sales Officer",
+        "VP Sales",
+        "Regional VP",
+        "Sales Director",
+        "Sales Manager",
+        "Account Executive",
+        "Enterprise AE",
+        "SDR/BDR",
+        "Sales Engineer"
+      ]
+    },
+    {
+      "slug": "sales-operations",
+      "sub_function": "Sales Operations",
+      "titles": [
+        "CRO",
+        "Chief Sales Officer",
+        "VP Sales",
+        "Regional VP",
+        "Sales Director",
+        "Sales Manager",
+        "Account Executive",
+        "Enterprise AE",
+        "SDR/BDR",
+        "Sales Engineer"
+      ]
+    },
+    {
+      "slug": "deal-desk",
+      "sub_function": "Deal Desk",
+      "titles": [
+        "CRO",
+        "Chief Sales Officer",
+        "VP Sales",
+        "Regional VP",
+        "Sales Director",
+        "Sales Manager",
+        "Account Executive",
+        "Enterprise AE",
+        "SDR/BDR",
+        "Sales Engineer"
+      ]
+    },
+    {
+      "slug": "sales-enablement",
+      "sub_function": "Sales Enablement",
+      "titles": [
+        "CRO",
+        "Chief Sales Officer",
+        "VP Sales",
+        "Regional VP",
+        "Sales Director",
+        "Sales Manager",
+        "Account Executive",
+        "Enterprise AE",
+        "SDR/BDR",
+        "Sales Engineer"
+      ]
+    }
+  ]
+}
