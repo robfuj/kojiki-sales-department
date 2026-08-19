@@ -1,0 +1,45 @@
+{
+  "decision_object": {
+    "decision_id": "SAL-2026-088",
+    "decision_name": "Stalled $120k enterprise deal",
+    "owning_function": "Sales",
+    "decision_owner_role": "Enterprise AE",
+    "trigger_condition": "Deal stalled 3 weeks at legal redlines",
+    "current_state": "Stalled; champion supportive, procurement slow",
+    "required_inputs": [
+      "champion commitment",
+      "procurement timeline",
+      "budget-reset date"
+    ],
+    "evidence_threshold": "Economic buyer engages within 1 week",
+    "available_options": [
+      "Escalate to economic buyer",
+      "Quarter-end incentive",
+      "Accept standard timeline"
+    ],
+    "decision_criteria": "Unblock before budget reset",
+    "constraints": "Cannot discount below floor",
+    "risk_level": "medium",
+    "delegation_level": "Recommend",
+    "escalation_conditions": "Procurement exceeds 6-week SLA",
+    "expected_outcome": "CFO engages; procurement compressed",
+    "verification_method": "10-day SLA set by CFO",
+    "actual_outcome": "CFO intro granted; 10-day SLA",
+    "learning_extracted": "Budget-reset deadlines are strong escalation leverage",
+    "rule_version": "SAL-RULE-004",
+    "last_reviewed": "2026-08-18"
+  },
+  "learning_ledger": {
+    "case": "Stalled negotiation at legal redlines",
+    "decision": "Escalate to economic buyer",
+    "assumption": "Procurement delay is inertial, not objection",
+    "action": "Champion intros CFO; frame as budget risk",
+    "expected_result": "CFO engages and compresses timeline",
+    "actual_result": "CFO intro, 10-day SLA",
+    "variance": "Confirmed inertial blocker",
+    "cause": "Process blocker, not objection",
+    "learning": "On budget-reset risk escalate within 1 week",
+    "rule_update": "On budget-reset risk, escalate to economic buyer within 1 week"
+  },
+  "orientation_required": true
+}
